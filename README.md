@@ -1,0 +1,2 @@
+# Anasig
+ Combinação de signos
